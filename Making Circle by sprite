@@ -4,5 +4,5 @@ set pen colour to red
 set pen size to 10 
 [ repeat 360 times
 [ move 1 step 
-[ turn  right 1  degree ]
+[ turn  right 1 degree ]
   pen up
