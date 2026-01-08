@@ -1,0 +1,9 @@
+When flag clicked 
+erase all
+pen down
+Set pen colour to red 
+Set pen size to 10
+[ Repeat 2 times 
+[ Move 100 steps
+turn right 120 degrees ] 
+pen up
